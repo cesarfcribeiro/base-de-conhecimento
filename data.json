@@ -1,0 +1,39 @@
+[
+  {
+    "nome": "JavaScript",
+    "descrição": "JavaScript é uma linguagem de programação leve, interpretada e orientada a objetos, amplamente utilizada para desenvolvimento web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+
+  {
+    "nome": "Python",
+    "descrição": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua legibilidade e simplicidade.",
+    "ano": 1991,
+    "link": "https://www.python.org/"
+  },
+  {
+    "nome": "Java",
+    "descrição": "Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems e lançada em 1995. [2, 5, 11] É conhecida por sua portabilidade, que permite que os aplicativos sejam executados em diferentes plataformas através da Máquina Virtual Java (JVM). [5]",
+    "ano": 1995,
+    "link": "https://www.java.com/pt-BR/"
+  },
+  {
+    "nome": "C++",
+    "descrição": "C++ é uma linguagem de programação de uso geral, multi-paradigma e compilada. [7] Criada como uma extensão da linguagem C, ela adicionou recursos de orientação a objetos, como classes. [7]",
+    "ano": 1983,
+    "link": "https://isocpp.org/"
+  },
+  {
+    "nome": "Go",
+    "descrição": "Go, também conhecida como Golang, é uma linguagem de programação de código aberto desenvolvida pelo Google. [1, 4] Foi projetada para ser simples, eficiente e confiável, com foco em programação concorrente. [1, 4]",
+    "ano": 2009,
+    "link": "https://go.dev/"
+  },
+  {
+    "nome": "TypeScript",
+    "descrição": "TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem estática opcional à linguagem. [6] Ele compila para JavaScript simples e pode ser usado para desenvolver aplicações tanto no lado do cliente quanto no do servidor. [6]",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/"
+  }
+]
