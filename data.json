@@ -5,7 +5,6 @@
     "ano": 1995,
     "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
   },
-
   {
     "nome": "Python",
     "descrição": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua legibilidade e simplicidade.",
@@ -35,5 +34,155 @@
     "descrição": "TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem estática opcional à linguagem. [6] Ele compila para JavaScript simples e pode ser usado para desenvolver aplicações tanto no lado do cliente quanto no do servidor. [6]",
     "ano": 2012,
     "link": "https://www.typescriptlang.org/"
+  },
+  {
+    "nome": "React",
+    "descrição": "Biblioteca JavaScript para construir interfaces de usuário baseadas em componentes declarativos.",
+    "ano": "2013",
+    "link": "https://reactjs.org/"
+  },
+  {
+    "nome": "Vue.js",
+    "descrição": "Framework progressivo para construção de interfaces de usuário, conhecido por sua simplicidade e reatividade.",
+    "ano": "2014",
+    "link": "https://vuejs.org/"
+  },
+  {
+    "nome": "Angular",
+    "descrição": "Plataforma de desenvolvimento mantida pelo Google para criar aplicações web complexas e escaláveis.",
+    "ano": "2016",
+    "link": "https://angular.io/"
+  },
+  {
+    "nome": "Kotlin",
+    "descrição": "Linguagem de programação moderna, estaticamente tipada, que roda na JVM e é amplamente usada no desenvolvimento Android.",
+    "ano": "2011",
+    "link": "https://kotlinlang.org/"
+  },
+  {
+    "nome": "C#",
+    "descrição": "Linguagem de programação orientada a objetos desenvolvida pela Microsoft, primariamente usada com o framework .NET.",
+    "ano": "2000",
+    "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  },
+  {
+    "nome": "Rust",
+    "descrição": "Linguagem focada em segurança de memória e performance, adequada para sistemas operacionais e desenvolvimento web.",
+    "ano": "2010",
+    "link": "https://www.rust-lang.org/"
+  },
+  {
+    "nome": "Swift",
+    "descrição": "Linguagem de programação moderna e segura desenvolvida pela Apple para iOS, macOS, watchOS e tvOS.",
+    "ano": "2014",
+    "link": "https://www.swift.org/"
+  },
+  {
+    "nome": "SQL Server",
+    "descrição": "Sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft.",
+    "ano": "1989",
+    "link": "https://www.microsoft.com/en-us/sql-server"
+  },
+  {
+    "nome": "PostgreSQL",
+    "descrição": "Sistema de banco de dados relacional de código aberto, conhecido por sua robustez e conformidade com SQL.",
+    "ano": "1996",
+    "link": "https://www.postgresql.org/"
+  },
+  {
+    "nome": "MongoDB",
+    "descrição": "Banco de dados NoSQL orientado a documentos, altamente escalável e flexível.",
+    "ano": "2009",
+    "link": "https://www.mongodb.com/"
+  },
+  {
+    "nome": "Redis",
+    "descrição": "Armazenamento de estrutura de dados em memória, usado como cache, broker de mensagens e banco de dados.",
+    "ano": "2009",
+    "link": "https://redis.io/"
+  },
+  {
+    "nome": "Docker",
+    "descrição": "Plataforma de código aberto para desenvolver, enviar e executar aplicações dentro de contêineres leves.",
+    "ano": "2013",
+    "link": "https://www.docker.com/"
+  },
+  {
+    "nome": "Kubernetes",
+    "descrição": "Sistema de código aberto para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "ano": "2014",
+    "link": "https://kubernetes.io/"
+  },
+  {
+    "nome": "Terraform",
+    "descrição": "Ferramenta de Infrastructure as Code (IaC) para provisionar e gerenciar infraestrutura em nuvem de forma declarativa.",
+    "ano": "2014",
+    "link": "https://www.terraform.io/"
+  },
+  {
+    "nome": "AWS Lambda",
+    "descrição": "Serviço de computação serverless que permite executar código sem provisionar ou gerenciar servidores.",
+    "ano": "2014",
+    "link": "https://aws.amazon.com/lambda/"
+  },
+  {
+    "nome": "Next.js",
+    "descrição": "Framework React para produção que oferece renderização do lado do servidor (SSR) e geração de sites estáticos (SSG).",
+    "ano": "2016",
+    "link": "https://nextjs.org/"
+  },
+  {
+    "nome": "Svelte",
+    "descrição": "Compilador que transforma componentes em código Vanilla eficiente em tempo de build, eliminando a sobrecarga do runtime.",
+    "ano": "2016",
+    "link": "https://svelte.dev/"
+  },
+  {
+    "nome": "GraphQL",
+    "descrição": "Linguagem de consulta para APIs e um runtime para executar essas consultas, permitindo aos clientes solicitar exatamente os dados necessários.",
+    "ano": "2015",
+    "link": "https://graphql.org/"
+  },
+  {
+    "nome": "Kafka",
+    "descrição": "Plataforma de streaming distribuída de eventos, projetada para lidar com feeds de dados em tempo real.",
+    "ano": "2011",
+    "link": "https://kafka.apache.org/"
+  },
+  {
+    "nome": "Flutter",
+    "descrição": "SDK de interface de usuário do Google para criar aplicativos nativamente compilados para celular, web e desktop a partir de uma única base de código.",
+    "ano": "2017",
+    "link": "https://flutter.dev/"
+  },
+  {
+    "nome": "Dart",
+    "descrição": "Linguagem de programação otimizada para UI, usada primariamente pelo framework Flutter.",
+    "ano": "2011",
+    "link": "https://dart.dev/"
+  },
+  {
+    "nome": "RabbitMQ",
+    "descrição": "Broker de mensagens de código aberto que implementa o Advanced Message Queuing Protocol (AMQP).",
+    "ano": "2007",
+    "link": "https://www.rabbitmq.com/"
+  },
+  {
+    "nome": "Jenkins",
+    "descrição": "Servidor de automação de código aberto que ajuda a automatizar partes do processo de desenvolvimento de software (CI/CD).",
+    "ano": "2011",
+    "link": "https://www.jenkins.io/"
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descrição": "Framework CSS utilitário que permite construir designs complexos rapidamente diretamente na marcação.",
+    "ano": "2017",
+    "link": "https://tailwindcss.com/"
+  },
+  {
+    "nome": "Solidity",
+    "descrição": "Linguagem de programação orientada a contratos para escrever contratos inteligentes em plataformas como Ethereum.",
+    "ano": "2014",
+    "link": "https://soliditylang.org/"
   }
 ]
